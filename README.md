@@ -21,10 +21,6 @@ A simple web-based calculator that performs basic arithmetic operations includin
 - *CSS3* – Styling and design
 - *JavaScript (Vanilla)* – Functionality and logic
 
-## 📷 Screenshot
-
-![Calculator Screenshot](screenshot.png)  
-*(Include a screenshot named screenshot.png in your repo root)*
 
 ## 🧠 How It Works
 
